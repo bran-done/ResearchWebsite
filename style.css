@@ -1,0 +1,20 @@
+h2{color:rgb(167, 164, 164)}
+      .darkgray{background-color:rgb(38, 37, 39)}
+      #gamecube{background-color:rgb(96, 8, 168)}
+      img{width:400px;}
+
+      h1{text-align: center;} 
+
+      header:hover{animation: title 2s forwards}
+
+      header{color:red; size:40px; font-family:fantasy}
+
+      @keyframes title {from{color:red} to {color:skyblue}}
+
+      main{text-align:center;}
+
+      table{box-align:center}
+
+      ul + img:hover{}
+
+      
